@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577401503330",
+    "project_id": "chat-function-book4book",
+    "storage_bucket": "chat-function-book4book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577401503330:android:01a9ace8e9f8cffb765b3b",
+        "android_client_info": {
+          "package_name": "com.example.firsttimeandroidstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577401503330-goe6ambu9qlv3lgp4855hl04611ss6e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firsttimeandroidstudio",
+            "certificate_hash": "d5363af5468d2af25a8bd8c6d05da8f7613e43cf"
+          }
+        },
+        {
+          "client_id": "577401503330-evafo7t54o2csjlrib1o2k61o0srr1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVeTxJZzG4LBjS_H2MnLauP1BESV4C7Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577401503330-evafo7t54o2csjlrib1o2k61o0srr1vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
